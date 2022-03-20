@@ -6,8 +6,8 @@
     font-family: 'Nanum Gothic', sans-serif;
     color:rgb(255, 255, 255);
     text-decoration: none;
-    
-    
+
+
 }
 
 body{
@@ -16,7 +16,7 @@ body{
 }
 
 #showcase{
-    background-image: url(bg.jpg);
+    background-image: url(../images/bg.jpg);
     height: 90vh;
     background-position: center;
     background-size: cover;
@@ -24,7 +24,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    
+
 }
 
 
@@ -32,9 +32,9 @@ body{
 #showcase h1{
     font-size: 50px;
     font-family: 'Nanum Gothic', sans-serif;
-    
+
     margin-bottom: 15px;
-   
+
 }
 
 #showcase p{
@@ -42,7 +42,7 @@ body{
     color: rgb(255, 255, 255);
     outline: white;
     font-family: 'Raleway', sans-serif;
-    
+
 
 }
 
@@ -66,31 +66,31 @@ body{
     color: rgb(0, 0, 0);
 
     transition: 1s;
-    
+
 }
 
-    
+
 
 .social-media{
     display: flex;
     justify-content: flex-end;
-    
-    
+
+
 }
 .social-media ul{
     list-style: none;
     display: flex;
     flex-direction: row;
-    
-    
-    
-    
+
+
+
+
 }
 .social-media ul li{
     padding: 10px;
     display: flex;
-    
-    
+
+
 }
 .social-media li:hover{
     background-color: #d3812fa2;
@@ -100,7 +100,7 @@ body{
 }
 .adress h2{
     font-size: 20px;
-    
+
 }
 
 
